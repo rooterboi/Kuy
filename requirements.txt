@@ -1,0 +1,6 @@
+aiogram>=3.7.0
+yt-dlp
+shazamio
+pydub
+python-dotenv
+aiohttp
